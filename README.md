@@ -10,9 +10,13 @@ This project aims to bridge the gap between data science and astrology by provid
 
 Contents of the Project:
 1.Data Analysis Report: A comprehensive analysis of the dataset, including exploratory data analysis (EDA) and visualizations that illustrate the distribution of zodiac signs and writing patterns.
+
 2.Model Development: Implementation of various machine learning models, including Random Forest and Linear Support Vector Classifier (LinearSVC), to predict zodiac signs.
+
 3.Preprocessing Scripts: Code for data cleaning, feature extraction using TF-IDF, and label encoding to prepare textual data for modeling.
+
 4.Documentation: Detailed documentation explaining the methodology, data sources, and steps taken to develop the prediction model.
+
 5.Future Enhancements: Insights into potential improvements, such as advanced NLP techniques, hyperparameter tuning, and multilingual support.
 
 Why We Created This Project:
